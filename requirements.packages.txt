@@ -152,7 +152,7 @@ passlib==1.7.1            # via flask-security, invenio-accounts
 pathlib2==2.3.3           # via importlib-metadata, ipython, pickleshare
 pexpect==4.7.0            # via ipython
 pickleshare==0.7.5        # via ipython
-pillow==6.2.2             # via flask-iiif, invenio-formatter
+pillow==8.3.2             # via flask-iiif, invenio-formatter
 pluggy==0.12.0            # via jsonresolver
 poyo==0.4.2               # via cookiecutter
 prompt-toolkit==1.0.16    # via ipython
